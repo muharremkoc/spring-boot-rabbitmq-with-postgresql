@@ -1,0 +1,1 @@
+# spring-boot-rabbitmq-with-postgresql
